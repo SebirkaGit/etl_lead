@@ -1,0 +1,5 @@
+You have some data in CSV and JSON you need to extract it in one sheet data:imperial the transfor into metric then load to CSV
+
+what is glob:
+list_csv=glob.glob('*.csv')  => the output would be all the file you have let's assum that we have three:
+list_csv:['source1.csv', 'source2.csv', 'source3.csv'] and so on so json files that you have.
